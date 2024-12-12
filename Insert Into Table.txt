@@ -1,0 +1,6 @@
+INSERT INTO Timetable (course_name, room, day, time) VALUES
+    ('Introduction to International Relations', 114, 'Tuesday', '9:00 AM'),
+    ('College Algebra', 227, 'Wednesday', '9:00 AM'),
+    ('Computer Languages', 115, 'Thursday', '9:00 AM'),
+    ('Computer Programming 2', 114, 'Friday', '9:00 AM'),
+    ('Operating Systems', 115, 'Friday', '11:30 AM');
